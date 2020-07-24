@@ -3,12 +3,7 @@ import React from 'react';
 // We extend a class to carry over all of its properties/methods, and we can add our own for our new class.
 class HelloYourName extends React.Component {
 
-    // Props is what most React developers will call this parameter, Stick to convention here!
-    constructor ( props )
-    {
-        // Sets up our object/component to use the properties passed in...
-        super( props ); // (we'll be able to reference them later!)
-    }
+    
     /**
      * render
      * @Summary An expected method for React components.
