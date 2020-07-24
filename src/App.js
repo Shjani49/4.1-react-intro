@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import Hello from './Hello'; // Make sure to import your component if you're going to use it in any file...
 import HelloYourName from './HelloYourName';
 import HelloStudent from './HelloStudent';
